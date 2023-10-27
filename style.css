@@ -1,0 +1,80 @@
+/* universal selector */
+/* *{
+    text-align: center;
+    color: blue;
+    border:solid black;
+} */
+
+  
+
+
+
+/* Type selector */
+/* h1,p{
+    color: red;
+    text-align: center;
+
+
+} */
+
+
+
+
+
+
+/* class selector */
+/* .hayat{
+    color:brown ;
+    text-align: center;
+} */
+
+/* id selector */
+/* #king{
+    color: green;
+    text-align: center;
+} */
+
+
+
+
+
+
+
+/* child selector */
+/* span>h1{
+    color: blue;
+} */
+
+
+
+
+
+
+
+
+/* descendant selector */
+/* ul li{
+    color: aquamarine;
+} */
+
+
+
+
+
+
+
+/* adjcentsiblingselector */
+/* h1+p{
+    color: blueviolet;
+} */
+
+
+
+
+
+
+
+/* Genral sibling selector */
+/* h1~p{
+    color: red;
+} */
